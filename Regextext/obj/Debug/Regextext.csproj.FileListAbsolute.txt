@@ -1,0 +1,7 @@
+C:\Users\shher\source\repos\Regextext\Regextext\bin\Debug\Regextext.exe.config
+C:\Users\shher\source\repos\Regextext\Regextext\bin\Debug\Regextext.exe
+C:\Users\shher\source\repos\Regextext\Regextext\bin\Debug\Regextext.pdb
+C:\Users\shher\source\repos\Regextext\Regextext\obj\Debug\Regextext.csprojAssemblyReference.cache
+C:\Users\shher\source\repos\Regextext\Regextext\obj\Debug\Regextext.csproj.CoreCompileInputs.cache
+C:\Users\shher\source\repos\Regextext\Regextext\obj\Debug\Regextext.exe
+C:\Users\shher\source\repos\Regextext\Regextext\obj\Debug\Regextext.pdb
